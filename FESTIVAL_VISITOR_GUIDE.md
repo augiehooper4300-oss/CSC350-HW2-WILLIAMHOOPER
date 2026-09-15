@@ -32,17 +32,17 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Public Transportation  
+- Entrance or meeting location: Fiterman Hall Main Entrance 
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Elevators provide access to all event floors
+2. Guided Audio Tour
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Transfer Fair goes from 4:00pm to 8:00pm!
 
 ## GitHub Verification
 
