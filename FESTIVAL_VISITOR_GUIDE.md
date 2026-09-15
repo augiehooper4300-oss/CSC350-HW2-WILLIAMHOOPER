@@ -52,30 +52,30 @@ Verified on github.com
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Personalized guide | 6fc07f6 | `docs: personalize festival visitor guide` |
+| Visitor access information | d578a82 | `docs: add visitor access information` |
+| GitHub verification | f6bae16 | `docs: verify independent homework on GitHub` |
+| Final reflection | **See latest commit ID in `git log`** | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file saves it in your wokring directory, while commiting logs the cahnges in your local git repository. 
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff will show the difference between my working directory and the staging area, and git diff --staged shows the changes that have been staged but not committed. 
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+  I still needed to run git pull because the commit wasn't created in my local directory, it was created on the GitHub website.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   The -u links my local main to orgin/main on the remote repository, so future git push and pull commands don't need the remote and branch specified manually. (I had to look this up I wasn't really sure)
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+  When calling git status I can see "Your branch is up to date with 'origin/main" and "nothing to commit, working tree clean". 
 
