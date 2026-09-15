@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: William Hooper
+- Course and section: CSC350
+- Date: 9/14/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL:https://github.com/augiehooper4300-oss/CSC350-HW2-WILLIAMHOOPER.git
+- Starting `git status`: Your branch is up to date with 'origin/main'.
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: BMCC Transfer Fair 
+- Location: New York, Fiterman Hall 
+- Intended audience: Last Year BMCC Students
+- Theme: Start here go anywhere!
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   In my working directory. 
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   It is niether stagged nor commited until, I run git add or git commit. 
 
 ## Arrival Information
 
