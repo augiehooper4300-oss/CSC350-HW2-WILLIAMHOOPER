@@ -46,7 +46,7 @@ Transfer Fair goes from 4:00pm to 8:00pm!
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on github.com
 
 ## Commit Evidence
 
